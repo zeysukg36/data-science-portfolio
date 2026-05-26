@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffb6c1&height=150&section=header&text=Data%20Science%20Portfolio&fontSize=40&fontColor=ffffff" alt="Banner" />
-</p>
+ ![Data Science Portfolio](https://capsule-render.vercel.app/render?type=waving&color=ffb6c1&height=150&section=header&text=Data%20Science%20Portfolio&fontSize=40&fontColor=ffffff)
 
 <p align="center">
   <img src="https://img.shields.io/badge/YBS%20Student-Pink?style=flat-square&color=ffb6c1" alt="Major"/>
